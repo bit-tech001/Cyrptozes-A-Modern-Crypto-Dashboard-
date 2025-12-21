@@ -1,4 +1,4 @@
-🚀 Cryptozes – Modern Crypto Dashboard 💹
+ #Cryptozes – Modern Crypto Dashboard 
 
 Cryptozes is a modern, responsive, and real-time cryptocurrency tracking dashboard built with React.js. It provides live crypto prices, volume updates, and interactive charts using real-time market data APIs. The project is deployed seamlessly on Netlify.
 
